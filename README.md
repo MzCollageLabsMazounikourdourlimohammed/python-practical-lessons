@@ -53,3 +53,22 @@ This repository contains **practical Python lessons** designed for beginners and
 - Students
 - Entrepreneurs
 - Automation and AI
+  
+  How to use
+1. Clone or download the repository
+2. Open files using VS Code or any editor
+3. Run and modify the code
+4. Experiment and build your own projects
+
+ Paid Services
+- Personalized explanations
+- Project customization and development
+- Custom Python applications
+- 1-on-1 or group training
+
+📧 Email: contact@mzcollagelabs.com  
+🌐 Website: https://mzcollagelabs.com
+
+---
+
+ If you find this useful, consider giving the repository a star!
